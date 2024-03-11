@@ -22,9 +22,9 @@ try:
     outpath = Path(snakemake.output[0])
 except:
     anno_path = Path(
-        "Iriss-disfl-anno-phase2-thomas-exb/2/Iriss-J-Gvecg-P500001.exb.xml"
+        "Iriss-disfl-anno-phase2-thomas-exb/2/Iriss-J-Gvecg-P580002.exb.xml"
     )
-    TEI_path = Path("iriss_with_w_and_pauses/Iriss-J-Gvecg-P500001.xml")
+    TEI_path = Path("iriss_with_w_and_pauses/Iriss-J-Gvecg-P580002.xml")
     outpath = Path("./test.exb.xml")
 annodoc = ET.fromstring(anno_path.read_bytes())
 TEI = ET.fromstring(TEI_path.read_bytes())
@@ -88,6 +88,8 @@ for speaker in speakers:
                     ]
                     assert len(possible_events) == 1
                     old_event = possible_events[0]
+                    if "!!" in old_event.text:
+                        raise AssertionError
                     newevent.set("start", old_event.get("start"))
                     newevent.set("end", old_event.get("end"))
                     addendum = ""
@@ -105,5 +107,9 @@ tier_to_delete = annodoc.find(".//tier[@display-name='[traceability]']")
 tier_to_delete.getparent().remove(tier_to_delete)
 comment = annodoc.find(".//head/meta-information/comment")
 from datetime import datetime
-comment.text = comment.text + f", traceability tiers added from TEI on {datetime.isoformat(datetime.now())}"
+
+comment.text = (
+    comment.text
+    + f", traceability tiers added from TEI on {datetime.isoformat(datetime.now())}"
+)
 save(annodoc, outpath)

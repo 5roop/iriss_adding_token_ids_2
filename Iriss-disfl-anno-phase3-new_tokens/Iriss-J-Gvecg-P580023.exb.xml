@@ -15,7 +15,7 @@
         <ud-information attribute-name="Velikost prostora">Nad 80 m2</ud-information>
         <ud-information attribute-name="Vir">STA</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:45.918922 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T14:46:14.358333</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:45.918922 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:26.349551</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -3512,7 +3512,7 @@
       <event start="Artur-J-Gvecg-P580023.t116.w7" end="Artur-J-Gvecg-P580023.t116.w8">Artur-J-Gvecg-P580023.tok975</event>
       <event start="Artur-J-Gvecg-P580023.t116.w8" end="Artur-J-Gvecg-P580023.t116.w9">Artur-J-Gvecg-P580023.tok976</event>
       <event start="Artur-J-Gvecg-P580023.t116.w9" end="Artur-J-Gvecg-P580023.t117">Artur-J-Gvecg-P580023.tok977</event>
-      <event start="Artur-J-Gvecg-P580023.t117.w0" end="Artur-J-Gvecg-P580023.t117.w1">Artur-J-Gvecg-P580023.tok978</event>
+      <event start="Artur-J-Gvecg-P580023.t117.w0" end="Artur-J-Gvecg-P580023.t117.w1">Artur-J-Gvecg-P580023.tok978 !! Ja</event>
       <event start="Artur-J-Gvecg-P580023.t117.w1" end="Artur-J-Gvecg-P580023.t117.w2">Artur-J-Gvecg-P580023.tok981</event>
       <event start="Artur-J-Gvecg-P580023.t117.w2" end="Artur-J-Gvecg-P580023.t117.w3">Artur-J-Gvecg-P580023.tok982</event>
       <event start="Artur-J-Gvecg-P580023.t117.w3" end="Artur-J-Gvecg-P580023.t117.w4">Artur-J-Gvecg-P580023.tok983</event>

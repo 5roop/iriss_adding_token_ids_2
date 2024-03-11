@@ -15,7 +15,7 @@
         <ud-information attribute-name="Velikost prostora">Nad 80 m2</ud-information>
         <ud-information attribute-name="Vir">STA</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:44.600754 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T14:46:09.722414</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:44.600754 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:21.360380</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -2975,77 +2975,10 @@
       <event start="Artur-J-Gvecg-P500026.t266.w3" end="Artur-J-Gvecg-P500026.t267.w0">reparandum</event>
       <event start="Artur-J-Gvecg-P500026.t267.w0" end="Artur-J-Gvecg-P500026.t268">repair</event>
     </tier>
-    <tier id="20" category="traceability" type="a" display-name="Artur-J-G3057 [traceability]">
-      <event start="Artur-J-Gvecg-P500026.t262.w0" end="Artur-J-Gvecg-P500026.t263">Artur-J-Gvecg-P500026.tok1522</event>
-      <event start="Artur-J-Gvecg-P500026.t263.w0" end="Artur-J-Gvecg-P500026.t263.w1">Artur-J-Gvecg-P500026.tok1524</event>
-      <event start="Artur-J-Gvecg-P500026.t263.w1" end="Artur-J-Gvecg-P500026.t263.w2">Artur-J-Gvecg-P500026.tok1525</event>
-      <event start="Artur-J-Gvecg-P500026.t263.w2" end="Artur-J-Gvecg-P500026.t263.w3">Artur-J-Gvecg-P500026.tok1526</event>
-      <event start="Artur-J-Gvecg-P500026.t263.w3" end="Artur-J-Gvecg-P500026.t264">Artur-J-Gvecg-P500026.tok1527</event>
-      <event start="Artur-J-Gvecg-P500026.t264.w0" end="Artur-J-Gvecg-P500026.t264.w1">Artur-J-Gvecg-P500026.tok1528</event>
-      <event start="Artur-J-Gvecg-P500026.t264.w1" end="Artur-J-Gvecg-P500026.t265">Artur-J-Gvecg-P500026.tok1530</event>
-      <event start="Artur-J-Gvecg-P500026.t265.w0" end="Artur-J-Gvecg-P500026.t265.w1">Artur-J-Gvecg-P500026.tok1532</event>
-      <event start="Artur-J-Gvecg-P500026.t265.w1" end="Artur-J-Gvecg-P500026.t266">Artur-J-Gvecg-P500026.tok1533</event>
-      <event start="Artur-J-Gvecg-P500026.t266.w0" end="Artur-J-Gvecg-P500026.t266.w1">Artur-J-Gvecg-P500026.tok1534</event>
-      <event start="Artur-J-Gvecg-P500026.t266.w1" end="Artur-J-Gvecg-P500026.t266.w2">Artur-J-Gvecg-P500026.tok1535</event>
-      <event start="Artur-J-Gvecg-P500026.t266.w2" end="Artur-J-Gvecg-P500026.t266.w3">Artur-J-Gvecg-P500026.tok1536</event>
-      <event start="Artur-J-Gvecg-P500026.t266.w3" end="Artur-J-Gvecg-P500026.t267">Artur-J-Gvecg-P500026.tok1538</event>
-      <event start="Artur-J-Gvecg-P500026.t267.w0" end="Artur-J-Gvecg-P500026.t267.w1">Artur-J-Gvecg-P500026.tok1539</event>
-      <event start="Artur-J-Gvecg-P500026.t267.w1" end="Artur-J-Gvecg-P500026.t268">Artur-J-Gvecg-P500026.tok1540</event>
-      <event start="Artur-J-Gvecg-P500026.t268.w0" end="Artur-J-Gvecg-P500026.t269">Artur-J-Gvecg-P500026.tok1542</event>
-      <event start="Artur-J-Gvecg-P500026.t269.w0" end="Artur-J-Gvecg-P500026.t270">Artur-J-Gvecg-P500026.tok1544</event>
-      <event start="Artur-J-Gvecg-P500026.t270.w0" end="Artur-J-Gvecg-P500026.t270.w1">Artur-J-Gvecg-P500026.tok1545</event>
-      <event start="Artur-J-Gvecg-P500026.t270.w1" end="Artur-J-Gvecg-P500026.t271">Artur-J-Gvecg-P500026.tok1546</event>
-      <event start="Artur-J-Gvecg-P500026.t271.w0" end="Artur-J-Gvecg-P500026.t271.w1">Artur-J-Gvecg-P500026.tok1547</event>
-      <event start="Artur-J-Gvecg-P500026.t271.w1" end="Artur-J-Gvecg-P500026.t271.w2">Artur-J-Gvecg-P500026.tok1548</event>
-      <event start="Artur-J-Gvecg-P500026.t271.w2" end="Artur-J-Gvecg-P500026.t271.w3">Artur-J-Gvecg-P500026.tok1549</event>
-      <event start="Artur-J-Gvecg-P500026.t271.w3" end="Artur-J-Gvecg-P500026.t271.w4">Artur-J-Gvecg-P500026.tok1550</event>
-      <event start="Artur-J-Gvecg-P500026.t271.w4" end="Artur-J-Gvecg-P500026.t272">Artur-J-Gvecg-P500026.tok1551</event>
-      <event start="Artur-J-Gvecg-P500026.t272.w0" end="Artur-J-Gvecg-P500026.t272.w1">Artur-J-Gvecg-P500026.tok1553</event>
-      <event start="Artur-J-Gvecg-P500026.t272.w1" end="Artur-J-Gvecg-P500026.t272.w2">Artur-J-Gvecg-P500026.tok1554</event>
-      <event start="Artur-J-Gvecg-P500026.t272.w2" end="Artur-J-Gvecg-P500026.t272.w3">Artur-J-Gvecg-P500026.tok1555</event>
-      <event start="Artur-J-Gvecg-P500026.t272.w3" end="Artur-J-Gvecg-P500026.t272.w4">Artur-J-Gvecg-P500026.tok1556</event>
-      <event start="Artur-J-Gvecg-P500026.t272.w4" end="Artur-J-Gvecg-P500026.t272.w5">Artur-J-Gvecg-P500026.tok1557</event>
-      <event start="Artur-J-Gvecg-P500026.t272.w5" end="Artur-J-Gvecg-P500026.t273">Artur-J-Gvecg-P500026.tok1558</event>
-      <event start="Artur-J-Gvecg-P500026.t273.w0" end="Artur-J-Gvecg-P500026.t273.w1">Artur-J-Gvecg-P500026.tok1559</event>
-      <event start="Artur-J-Gvecg-P500026.t273.w1" end="Artur-J-Gvecg-P500026.t273.w2">Artur-J-Gvecg-P500026.tok1560</event>
-      <event start="Artur-J-Gvecg-P500026.t273.w2" end="Artur-J-Gvecg-P500026.t273.w3">Artur-J-Gvecg-P500026.tok1561</event>
-      <event start="Artur-J-Gvecg-P500026.t273.w3" end="Artur-J-Gvecg-P500026.t274">Artur-J-Gvecg-P500026.tok1562</event>
-      <event start="Artur-J-Gvecg-P500026.t304.w0" end="Artur-J-Gvecg-P500026.t304.w1">Artur-J-Gvecg-P500026.tok1697</event>
-      <event start="Artur-J-Gvecg-P500026.t304.w1" end="Artur-J-Gvecg-P500026.t304.w2">Artur-J-Gvecg-P500026.tok1698</event>
-      <event start="Artur-J-Gvecg-P500026.t304.w2" end="Artur-J-Gvecg-P500026.t305">Artur-J-Gvecg-P500026.tok1699</event>
-      <event start="Artur-J-Gvecg-P500026.t305.w0" end="Artur-J-Gvecg-P500026.t305.w1">Artur-J-Gvecg-P500026.tok1700</event>
-      <event start="Artur-J-Gvecg-P500026.t305.w1" end="Artur-J-Gvecg-P500026.t305.w2">Artur-J-Gvecg-P500026.tok1701</event>
-      <event start="Artur-J-Gvecg-P500026.t305.w2" end="Artur-J-Gvecg-P500026.t305.w3">Artur-J-Gvecg-P500026.tok1703</event>
-      <event start="Artur-J-Gvecg-P500026.t305.w3" end="Artur-J-Gvecg-P500026.t305.w4">Artur-J-Gvecg-P500026.tok1704</event>
-      <event start="Artur-J-Gvecg-P500026.t305.w4" end="Artur-J-Gvecg-P500026.t305.w5">Artur-J-Gvecg-P500026.tok1705</event>
-      <event start="Artur-J-Gvecg-P500026.t305.w5" end="Artur-J-Gvecg-P500026.t305.w6">Artur-J-Gvecg-P500026.tok1707</event>
-      <event start="Artur-J-Gvecg-P500026.t305.w6" end="Artur-J-Gvecg-P500026.t305.w7">Artur-J-Gvecg-P500026.tok1709</event>
-      <event start="Artur-J-Gvecg-P500026.t305.w7" end="Artur-J-Gvecg-P500026.t306">Artur-J-Gvecg-P500026.tok1710</event>
-      <event start="Artur-J-Gvecg-P500026.t306.w0" end="Artur-J-Gvecg-P500026.t306.w1">Artur-J-Gvecg-P500026.tok1711</event>
-      <event start="Artur-J-Gvecg-P500026.t306.w1" end="Artur-J-Gvecg-P500026.t306.w2">Artur-J-Gvecg-P500026.tok1712</event>
-      <event start="Artur-J-Gvecg-P500026.t306.w2" end="Artur-J-Gvecg-P500026.t306.w3">Artur-J-Gvecg-P500026.tok1713</event>
-      <event start="Artur-J-Gvecg-P500026.t306.w3" end="Artur-J-Gvecg-P500026.t307">Artur-J-Gvecg-P500026.tok1714</event>
-      <event start="Artur-J-Gvecg-P500026.t307.w0" end="Artur-J-Gvecg-P500026.t307.w1">Artur-J-Gvecg-P500026.tok1716</event>
-      <event start="Artur-J-Gvecg-P500026.t307.w1" end="Artur-J-Gvecg-P500026.t307.w2">Artur-J-Gvecg-P500026.tok1718</event>
-      <event start="Artur-J-Gvecg-P500026.t307.w2" end="Artur-J-Gvecg-P500026.t307.w3">Artur-J-Gvecg-P500026.tok1719</event>
-      <event start="Artur-J-Gvecg-P500026.t307.w3" end="Artur-J-Gvecg-P500026.t308">Artur-J-Gvecg-P500026.tok1720</event>
-      <event start="Artur-J-Gvecg-P500026.t308.w0" end="Artur-J-Gvecg-P500026.t309">Artur-J-Gvecg-P500026.tok1721</event>
-      <event start="Artur-J-Gvecg-P500026.t309.w0" end="Artur-J-Gvecg-P500026.t309.w1">Artur-J-Gvecg-P500026.tok1722</event>
-      <event start="Artur-J-Gvecg-P500026.t309.w1" end="Artur-J-Gvecg-P500026.t310">Artur-J-Gvecg-P500026.tok1724</event>
-      <event start="Artur-J-Gvecg-P500026.t310.w0" end="Artur-J-Gvecg-P500026.t310.w1">Artur-J-Gvecg-P500026.tok1726</event>
-      <event start="Artur-J-Gvecg-P500026.t310.w1" end="Artur-J-Gvecg-P500026.t310.w2">Artur-J-Gvecg-P500026.tok1727</event>
-      <event start="Artur-J-Gvecg-P500026.t310.w2" end="Artur-J-Gvecg-P500026.t310.w3">Artur-J-Gvecg-P500026.tok1728</event>
-      <event start="Artur-J-Gvecg-P500026.t310.w3" end="Artur-J-Gvecg-P500026.t310.w4">Artur-J-Gvecg-P500026.tok1729</event>
-      <event start="Artur-J-Gvecg-P500026.t310.w4" end="Artur-J-Gvecg-P500026.t311">Artur-J-Gvecg-P500026.tok1730</event>
-      <event start="Artur-J-Gvecg-P500026.t311.w0" end="Artur-J-Gvecg-P500026.t311.w1">Artur-J-Gvecg-P500026.tok1732</event>
-      <event start="Artur-J-Gvecg-P500026.t311.w1" end="Artur-J-Gvecg-P500026.t312">Artur-J-Gvecg-P500026.tok1734</event>
-      <event start="Artur-J-Gvecg-P500026.t312.w0" end="Artur-J-Gvecg-P500026.t312.w1">Artur-J-Gvecg-P500026.tok1736</event>
-      <event start="Artur-J-Gvecg-P500026.t312.w1" end="Artur-J-Gvecg-P500026.t313">Artur-J-Gvecg-P500026.tok1738</event>
-    </tier>
-    <tier id="21" category="traceability" type="a" display-name="Artur-J-G3055 [traceability]">
-      <event start="Artur-J-Gvecg-P500026.t330.w0" end="Artur-J-Gvecg-P500026.t330.w1">Artur-J-Gvecg-P500026.tok1867</event>
+    <tier id="20" category="traceability" type="a" display-name="Artur-J-G3055 [traceability]">
+      <event start="Artur-J-Gvecg-P500026.t330.w0" end="Artur-J-Gvecg-P500026.t330.w1">Artur-J-Gvecg-P500026.tok1867 !! gospa</event>
       <event start="Artur-J-Gvecg-P500026.t330.w2" end="Artur-J-Gvecg-P500026.t331">Artur-J-Gvecg-P500026.tok1872</event>
-      <event start="Artur-J-Gvecg-P500026.t330.w1" end="Artur-J-Gvecg-P500026.t330.w2">Artur-J-Gvecg-P500026.tok1868</event>
+      <event start="Artur-J-Gvecg-P500026.t330.w1" end="Artur-J-Gvecg-P500026.t330.w2">Artur-J-Gvecg-P500026.tok1868 !! Vidmar</event>
       <event start="Artur-J-Gvecg-P500026.t331.w0" end="Artur-J-Gvecg-P500026.t331.w1">Artur-J-Gvecg-P500026.tok1874</event>
       <event start="Artur-J-Gvecg-P500026.t331.w1" end="Artur-J-Gvecg-P500026.t331.w2">Artur-J-Gvecg-P500026.tok1876</event>
       <event start="Artur-J-Gvecg-P500026.t331.w2" end="Artur-J-Gvecg-P500026.t331.w3">Artur-J-Gvecg-P500026.tok1877</event>
@@ -3129,7 +3062,7 @@
       <event start="Artur-J-Gvecg-P500026.t340.w8" end="Artur-J-Gvecg-P500026.t340.w9">Artur-J-Gvecg-P500026.tok1975</event>
       <event start="Artur-J-Gvecg-P500026.t340.w9" end="Artur-J-Gvecg-P500026.t341">Artur-J-Gvecg-P500026.tok1976</event>
     </tier>
-    <tier id="22" category="traceability" type="a" display-name="Artur-J-G3056 [traceability]">
+    <tier id="21" category="traceability" type="a" display-name="Artur-J-G3056 [traceability]">
       <event start="Artur-J-Gvecg-P500026.t148.w0" end="Artur-J-Gvecg-P500026.t148.w1">Artur-J-Gvecg-P500026.tok914</event>
       <event start="Artur-J-Gvecg-P500026.t148.w1" end="Artur-J-Gvecg-P500026.t148.w2">Artur-J-Gvecg-P500026.tok915</event>
       <event start="Artur-J-Gvecg-P500026.t148.w2" end="Artur-J-Gvecg-P500026.t148.w3">Artur-J-Gvecg-P500026.tok916</event>
@@ -3819,6 +3752,73 @@
       <event start="Artur-J-Gvecg-P500026.t329.w5" end="Artur-J-Gvecg-P500026.t329.w6">Artur-J-Gvecg-P500026.tok1863</event>
       <event start="Artur-J-Gvecg-P500026.t329.w6" end="Artur-J-Gvecg-P500026.t329.w7">Artur-J-Gvecg-P500026.tok1864</event>
       <event start="Artur-J-Gvecg-P500026.t329.w7" end="Artur-J-Gvecg-P500026.t330">Artur-J-Gvecg-P500026.tok1865</event>
+    </tier>
+    <tier id="22" category="traceability" type="a" display-name="Artur-J-G3057 [traceability]">
+      <event start="Artur-J-Gvecg-P500026.t262.w0" end="Artur-J-Gvecg-P500026.t263">Artur-J-Gvecg-P500026.tok1522</event>
+      <event start="Artur-J-Gvecg-P500026.t263.w0" end="Artur-J-Gvecg-P500026.t263.w1">Artur-J-Gvecg-P500026.tok1524</event>
+      <event start="Artur-J-Gvecg-P500026.t263.w1" end="Artur-J-Gvecg-P500026.t263.w2">Artur-J-Gvecg-P500026.tok1525</event>
+      <event start="Artur-J-Gvecg-P500026.t263.w2" end="Artur-J-Gvecg-P500026.t263.w3">Artur-J-Gvecg-P500026.tok1526</event>
+      <event start="Artur-J-Gvecg-P500026.t263.w3" end="Artur-J-Gvecg-P500026.t264">Artur-J-Gvecg-P500026.tok1527</event>
+      <event start="Artur-J-Gvecg-P500026.t264.w0" end="Artur-J-Gvecg-P500026.t264.w1">Artur-J-Gvecg-P500026.tok1528</event>
+      <event start="Artur-J-Gvecg-P500026.t264.w1" end="Artur-J-Gvecg-P500026.t265">Artur-J-Gvecg-P500026.tok1530</event>
+      <event start="Artur-J-Gvecg-P500026.t265.w0" end="Artur-J-Gvecg-P500026.t265.w1">Artur-J-Gvecg-P500026.tok1532</event>
+      <event start="Artur-J-Gvecg-P500026.t265.w1" end="Artur-J-Gvecg-P500026.t266">Artur-J-Gvecg-P500026.tok1533</event>
+      <event start="Artur-J-Gvecg-P500026.t266.w0" end="Artur-J-Gvecg-P500026.t266.w1">Artur-J-Gvecg-P500026.tok1534</event>
+      <event start="Artur-J-Gvecg-P500026.t266.w1" end="Artur-J-Gvecg-P500026.t266.w2">Artur-J-Gvecg-P500026.tok1535</event>
+      <event start="Artur-J-Gvecg-P500026.t266.w2" end="Artur-J-Gvecg-P500026.t266.w3">Artur-J-Gvecg-P500026.tok1536</event>
+      <event start="Artur-J-Gvecg-P500026.t266.w3" end="Artur-J-Gvecg-P500026.t267">Artur-J-Gvecg-P500026.tok1538</event>
+      <event start="Artur-J-Gvecg-P500026.t267.w0" end="Artur-J-Gvecg-P500026.t267.w1">Artur-J-Gvecg-P500026.tok1539</event>
+      <event start="Artur-J-Gvecg-P500026.t267.w1" end="Artur-J-Gvecg-P500026.t268">Artur-J-Gvecg-P500026.tok1540</event>
+      <event start="Artur-J-Gvecg-P500026.t268.w0" end="Artur-J-Gvecg-P500026.t269">Artur-J-Gvecg-P500026.tok1542</event>
+      <event start="Artur-J-Gvecg-P500026.t269.w0" end="Artur-J-Gvecg-P500026.t270">Artur-J-Gvecg-P500026.tok1544</event>
+      <event start="Artur-J-Gvecg-P500026.t270.w0" end="Artur-J-Gvecg-P500026.t270.w1">Artur-J-Gvecg-P500026.tok1545</event>
+      <event start="Artur-J-Gvecg-P500026.t270.w1" end="Artur-J-Gvecg-P500026.t271">Artur-J-Gvecg-P500026.tok1546</event>
+      <event start="Artur-J-Gvecg-P500026.t271.w0" end="Artur-J-Gvecg-P500026.t271.w1">Artur-J-Gvecg-P500026.tok1547</event>
+      <event start="Artur-J-Gvecg-P500026.t271.w1" end="Artur-J-Gvecg-P500026.t271.w2">Artur-J-Gvecg-P500026.tok1548</event>
+      <event start="Artur-J-Gvecg-P500026.t271.w2" end="Artur-J-Gvecg-P500026.t271.w3">Artur-J-Gvecg-P500026.tok1549</event>
+      <event start="Artur-J-Gvecg-P500026.t271.w3" end="Artur-J-Gvecg-P500026.t271.w4">Artur-J-Gvecg-P500026.tok1550</event>
+      <event start="Artur-J-Gvecg-P500026.t271.w4" end="Artur-J-Gvecg-P500026.t272">Artur-J-Gvecg-P500026.tok1551</event>
+      <event start="Artur-J-Gvecg-P500026.t272.w0" end="Artur-J-Gvecg-P500026.t272.w1">Artur-J-Gvecg-P500026.tok1553</event>
+      <event start="Artur-J-Gvecg-P500026.t272.w1" end="Artur-J-Gvecg-P500026.t272.w2">Artur-J-Gvecg-P500026.tok1554</event>
+      <event start="Artur-J-Gvecg-P500026.t272.w2" end="Artur-J-Gvecg-P500026.t272.w3">Artur-J-Gvecg-P500026.tok1555</event>
+      <event start="Artur-J-Gvecg-P500026.t272.w3" end="Artur-J-Gvecg-P500026.t272.w4">Artur-J-Gvecg-P500026.tok1556</event>
+      <event start="Artur-J-Gvecg-P500026.t272.w4" end="Artur-J-Gvecg-P500026.t272.w5">Artur-J-Gvecg-P500026.tok1557</event>
+      <event start="Artur-J-Gvecg-P500026.t272.w5" end="Artur-J-Gvecg-P500026.t273">Artur-J-Gvecg-P500026.tok1558</event>
+      <event start="Artur-J-Gvecg-P500026.t273.w0" end="Artur-J-Gvecg-P500026.t273.w1">Artur-J-Gvecg-P500026.tok1559</event>
+      <event start="Artur-J-Gvecg-P500026.t273.w1" end="Artur-J-Gvecg-P500026.t273.w2">Artur-J-Gvecg-P500026.tok1560</event>
+      <event start="Artur-J-Gvecg-P500026.t273.w2" end="Artur-J-Gvecg-P500026.t273.w3">Artur-J-Gvecg-P500026.tok1561</event>
+      <event start="Artur-J-Gvecg-P500026.t273.w3" end="Artur-J-Gvecg-P500026.t274">Artur-J-Gvecg-P500026.tok1562</event>
+      <event start="Artur-J-Gvecg-P500026.t304.w0" end="Artur-J-Gvecg-P500026.t304.w1">Artur-J-Gvecg-P500026.tok1697</event>
+      <event start="Artur-J-Gvecg-P500026.t304.w1" end="Artur-J-Gvecg-P500026.t304.w2">Artur-J-Gvecg-P500026.tok1698</event>
+      <event start="Artur-J-Gvecg-P500026.t304.w2" end="Artur-J-Gvecg-P500026.t305">Artur-J-Gvecg-P500026.tok1699</event>
+      <event start="Artur-J-Gvecg-P500026.t305.w0" end="Artur-J-Gvecg-P500026.t305.w1">Artur-J-Gvecg-P500026.tok1700</event>
+      <event start="Artur-J-Gvecg-P500026.t305.w1" end="Artur-J-Gvecg-P500026.t305.w2">Artur-J-Gvecg-P500026.tok1701</event>
+      <event start="Artur-J-Gvecg-P500026.t305.w2" end="Artur-J-Gvecg-P500026.t305.w3">Artur-J-Gvecg-P500026.tok1703</event>
+      <event start="Artur-J-Gvecg-P500026.t305.w3" end="Artur-J-Gvecg-P500026.t305.w4">Artur-J-Gvecg-P500026.tok1704</event>
+      <event start="Artur-J-Gvecg-P500026.t305.w4" end="Artur-J-Gvecg-P500026.t305.w5">Artur-J-Gvecg-P500026.tok1705</event>
+      <event start="Artur-J-Gvecg-P500026.t305.w5" end="Artur-J-Gvecg-P500026.t305.w6">Artur-J-Gvecg-P500026.tok1707</event>
+      <event start="Artur-J-Gvecg-P500026.t305.w6" end="Artur-J-Gvecg-P500026.t305.w7">Artur-J-Gvecg-P500026.tok1709</event>
+      <event start="Artur-J-Gvecg-P500026.t305.w7" end="Artur-J-Gvecg-P500026.t306">Artur-J-Gvecg-P500026.tok1710</event>
+      <event start="Artur-J-Gvecg-P500026.t306.w0" end="Artur-J-Gvecg-P500026.t306.w1">Artur-J-Gvecg-P500026.tok1711</event>
+      <event start="Artur-J-Gvecg-P500026.t306.w1" end="Artur-J-Gvecg-P500026.t306.w2">Artur-J-Gvecg-P500026.tok1712</event>
+      <event start="Artur-J-Gvecg-P500026.t306.w2" end="Artur-J-Gvecg-P500026.t306.w3">Artur-J-Gvecg-P500026.tok1713</event>
+      <event start="Artur-J-Gvecg-P500026.t306.w3" end="Artur-J-Gvecg-P500026.t307">Artur-J-Gvecg-P500026.tok1714</event>
+      <event start="Artur-J-Gvecg-P500026.t307.w0" end="Artur-J-Gvecg-P500026.t307.w1">Artur-J-Gvecg-P500026.tok1716</event>
+      <event start="Artur-J-Gvecg-P500026.t307.w1" end="Artur-J-Gvecg-P500026.t307.w2">Artur-J-Gvecg-P500026.tok1718</event>
+      <event start="Artur-J-Gvecg-P500026.t307.w2" end="Artur-J-Gvecg-P500026.t307.w3">Artur-J-Gvecg-P500026.tok1719</event>
+      <event start="Artur-J-Gvecg-P500026.t307.w3" end="Artur-J-Gvecg-P500026.t308">Artur-J-Gvecg-P500026.tok1720</event>
+      <event start="Artur-J-Gvecg-P500026.t308.w0" end="Artur-J-Gvecg-P500026.t309">Artur-J-Gvecg-P500026.tok1721</event>
+      <event start="Artur-J-Gvecg-P500026.t309.w0" end="Artur-J-Gvecg-P500026.t309.w1">Artur-J-Gvecg-P500026.tok1722</event>
+      <event start="Artur-J-Gvecg-P500026.t309.w1" end="Artur-J-Gvecg-P500026.t310">Artur-J-Gvecg-P500026.tok1724</event>
+      <event start="Artur-J-Gvecg-P500026.t310.w0" end="Artur-J-Gvecg-P500026.t310.w1">Artur-J-Gvecg-P500026.tok1726</event>
+      <event start="Artur-J-Gvecg-P500026.t310.w1" end="Artur-J-Gvecg-P500026.t310.w2">Artur-J-Gvecg-P500026.tok1727</event>
+      <event start="Artur-J-Gvecg-P500026.t310.w2" end="Artur-J-Gvecg-P500026.t310.w3">Artur-J-Gvecg-P500026.tok1728</event>
+      <event start="Artur-J-Gvecg-P500026.t310.w3" end="Artur-J-Gvecg-P500026.t310.w4">Artur-J-Gvecg-P500026.tok1729</event>
+      <event start="Artur-J-Gvecg-P500026.t310.w4" end="Artur-J-Gvecg-P500026.t311">Artur-J-Gvecg-P500026.tok1730</event>
+      <event start="Artur-J-Gvecg-P500026.t311.w0" end="Artur-J-Gvecg-P500026.t311.w1">Artur-J-Gvecg-P500026.tok1732</event>
+      <event start="Artur-J-Gvecg-P500026.t311.w1" end="Artur-J-Gvecg-P500026.t312">Artur-J-Gvecg-P500026.tok1734</event>
+      <event start="Artur-J-Gvecg-P500026.t312.w0" end="Artur-J-Gvecg-P500026.t312.w1">Artur-J-Gvecg-P500026.tok1736</event>
+      <event start="Artur-J-Gvecg-P500026.t312.w1" end="Artur-J-Gvecg-P500026.t313">Artur-J-Gvecg-P500026.tok1738</event>
     </tier>
   </basic-body>
 </basic-transcription>
