@@ -75,14 +75,35 @@ for speaker in speakers:
             if first_tier_content.strip() == TEI_events[0].get("text").strip():
                 addendum = ""
             else:
-                addendum = " !! " + TEI_events[0].get("text").strip()
-                logging.warning("Aww shucks, got a !! event...")
+                try:
+                    tokenid_to_find = TEI_events[0].get(xmlid + "id")
+                    old_traceability_tier = annodoc.find(
+                        ".//tier[@display-name='[traceability]']"
+                    )
 
+                    possible_events = [
+                        e
+                        for e in old_traceability_tier.findall(".//{*}event")
+                        if e.text.strip().startswith(tokenid_to_find)
+                    ]
+                    assert len(possible_events) == 1
+                    old_event = possible_events[0]
+                    newevent.set("start", old_event.get("start"))
+                    newevent.set("end", old_event.get("end"))
+                    addendum = ""
+                    logging.info("Got a !! event, but managed to resolve it.")
+                except:
+                    addendum = " !! " + TEI_events[0].get("text").strip()
+                    logging.warning(
+                        "Aww shucks, got a !! event that could not be resolved."
+                    )
             newevent.text = TEI_events[0].get(xmlid + "id") + addendum
             new_tier.append(newevent)
     new_tier[:] = sorted(new_tier, key=get_timestamp)
-
     list(annodoc.findall(".//{*}tier"))[-1].getparent().append(new_tier)
 tier_to_delete = annodoc.find(".//tier[@display-name='[traceability]']")
 tier_to_delete.getparent().remove(tier_to_delete)
+comment = annodoc.find(".//head/meta-information/comment")
+from datetime import datetime
+comment.text = comment.text + f", traceability tiers added from TEI on {datetime.isoformat(datetime.now())}"
 save(annodoc, outpath)

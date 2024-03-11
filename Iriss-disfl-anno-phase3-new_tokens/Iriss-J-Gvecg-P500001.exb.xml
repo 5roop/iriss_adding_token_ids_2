@@ -16,7 +16,7 @@
         <ud-information attribute-name="Velikost prostora">Nad 80 m2</ud-information>
         <ud-information attribute-name="Vir">STA</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:43.339355</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:43.339355, traceability tiers added from TEI on 2024-03-11T14:46:09.931919</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -3484,7 +3484,7 @@
       <event start="Artur-J-Gvecg-P500001.t799.w1" end="Artur-J-Gvecg-P500001.t799.w2">Artur-J-Gvecg-P500001.tok5031</event>
       <event start="Artur-J-Gvecg-P500001.t799.w2" end="Artur-J-Gvecg-P500001.t799.w3">Artur-J-Gvecg-P500001.tok5032</event>
       <event start="Artur-J-Gvecg-P500001.t799.w3" end="Artur-J-Gvecg-P500001.t799.w4">Artur-J-Gvecg-P500001.tok5033</event>
-      <event start="Artur-J-Gvecg-P500001.t799.w4" end="T4">Artur-J-Gvecg-P500001.tok5034 !! jeziku</event>
+      <event start="T4" end="Artur-J-Gvecg-P500001.t799.w5">Artur-J-Gvecg-P500001.tok5034</event>
       <event start="Artur-J-Gvecg-P500001.t799.w5" end="Artur-J-Gvecg-P500001.t799.w6">Artur-J-Gvecg-P500001.tok5035</event>
       <event start="Artur-J-Gvecg-P500001.t799.w6" end="Artur-J-Gvecg-P500001.t799.w7">Artur-J-Gvecg-P500001.tok5036</event>
       <event start="Artur-J-Gvecg-P500001.t799.w7" end="Artur-J-Gvecg-P500001.t799.w8">Artur-J-Gvecg-P500001.tok5037</event>
@@ -3624,9 +3624,9 @@
       <event start="Artur-J-Gvecg-P500001.t818.w6" end="Artur-J-Gvecg-P500001.t819">Artur-J-Gvecg-P500001.tok5194</event>
       <event start="Artur-J-Gvecg-P500001.t819.w0" end="Artur-J-Gvecg-P500001.t819.w1">Artur-J-Gvecg-P500001.tok5195</event>
       <event start="Artur-J-Gvecg-P500001.t819.w1" end="Artur-J-Gvecg-P500001.t819.w2">Artur-J-Gvecg-P500001.tok5196</event>
-      <event start="Artur-J-Gvecg-P500001.t819.w2" end="T5">Artur-J-Gvecg-P500001.tok5197 !! rečem</event>
+      <event start="T5" end="Artur-J-Gvecg-P500001.t819.w3">Artur-J-Gvecg-P500001.tok5197</event>
       <event start="Artur-J-Gvecg-P500001.t819.w3" end="Artur-J-Gvecg-P500001.t819.w4">Artur-J-Gvecg-P500001.tok5199</event>
-      <event start="Artur-J-Gvecg-P500001.t819.w4" end="T6">Artur-J-Gvecg-P500001.tok5200 !! kulti</event>
+      <event start="T6" end="Artur-J-Gvecg-P500001.t819.w5">Artur-J-Gvecg-P500001.tok5200</event>
       <event start="Artur-J-Gvecg-P500001.t819.w5" end="Artur-J-Gvecg-P500001.t819.w6">Artur-J-Gvecg-P500001.tok5201</event>
       <event start="Artur-J-Gvecg-P500001.t819.w6" end="Artur-J-Gvecg-P500001.t819.w7">Artur-J-Gvecg-P500001.tok5202</event>
       <event start="Artur-J-Gvecg-P500001.t819.w7" end="Artur-J-Gvecg-P500001.t820">Artur-J-Gvecg-P500001.tok5204</event>
@@ -3733,7 +3733,7 @@
       <event start="Artur-J-Gvecg-P500001.t845.w3" end="Artur-J-Gvecg-P500001.t845.w4">Artur-J-Gvecg-P500001.tok5324</event>
       <event start="Artur-J-Gvecg-P500001.t845.w4" end="Artur-J-Gvecg-P500001.t845.w5">Artur-J-Gvecg-P500001.tok5325</event>
       <event start="Artur-J-Gvecg-P500001.t845.w5" end="Artur-J-Gvecg-P500001.t845.w6">Artur-J-Gvecg-P500001.tok5326</event>
-      <event start="Artur-J-Gvecg-P500001.t845.w6" end="T7">Artur-J-Gvecg-P500001.tok5327 !! zbrala</event>
+      <event start="T7" end="Artur-J-Gvecg-P500001.t845.w7">Artur-J-Gvecg-P500001.tok5327</event>
       <event start="Artur-J-Gvecg-P500001.t845.w7" end="Artur-J-Gvecg-P500001.t845.w8">Artur-J-Gvecg-P500001.tok5329</event>
       <event start="Artur-J-Gvecg-P500001.t845.w8" end="Artur-J-Gvecg-P500001.t845.w9">Artur-J-Gvecg-P500001.tok5330</event>
       <event start="Artur-J-Gvecg-P500001.t845.w9" end="Artur-J-Gvecg-P500001.t845.w10">Artur-J-Gvecg-P500001.tok5331</event>
