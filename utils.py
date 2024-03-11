@@ -32,7 +32,7 @@ def get_words(tei: ET._Element) -> list[dict]:  # type: ignore
     all_synchs = [i.get("synch").replace("#", "") for i in all_elements_with_synch]
 
     def find_next(synch: str) -> str | None:
-        if synch == None:
+        if synch is None:
             return None
         synch = synch.replace("#", "")
         if synch == all_synchs[-1]:
